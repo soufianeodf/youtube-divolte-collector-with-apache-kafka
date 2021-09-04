@@ -1,4 +1,4 @@
-# divolte-collector-with-apache-kafka
+# Divolte Collector with Apache Kafka
 
 A proof of concept about collecting clickstream data using Javascript, Divolte Collector, Apache Kafka and Java consumer application.
 
