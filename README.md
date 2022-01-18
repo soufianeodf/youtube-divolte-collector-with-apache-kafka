@@ -4,7 +4,7 @@ A proof of concept about collecting clickstream data using Javascript, Divolte C
 
 # Youtube video
 
-[Divolte Collector with Apache Kafka](#)
+[Divolte Collector with Apache Kafka](https://www.youtube.com/watch?v=6uha8gviL9A)
 
 # Architecture Diagram
 
